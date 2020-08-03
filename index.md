@@ -1,14 +1,8 @@
-## 一堆东西
-
-You can use the [editor on GitHub](https://github.com/Truth6/clutter/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
 ### 资料
 
- [发音矫正](https://www.bilibili.com/video/BV1GJ411X7hu?p=1&share_medium=iphone&share_plat=ios&share_source=COPY&share_tag=s_i&timestamp=1596466547&unique_k=B2JVn2)
- 
+ [英音发音矫正](https://www.bilibili.com/video/BV1GJ411X7hu?p=1&share_medium=iphone&share_plat=ios&share_source=COPY&share_tag=s_i&timestamp=1596466547&unique_k=B2JVn2)
+ [英音发音矫正](https://www.bilibili.com/video/BV11J411D7cg?p=1)
+ [美音发音矫正](https://www.bilibili.com/video/av49808189)
 
 ### 英语学习关键点
 #### 发音：想摆脱口音，第一注重元音的发音。
