@@ -2,6 +2,7 @@
 
  [英音发音矫正](https://www.bilibili.com/video/BV1GJ411X7hu?p=1&share_medium=iphone&share_plat=ios&share_source=COPY&share_tag=s_i&timestamp=1596466547&unique_k=B2JVn2)
  [英语发音矫正](https://b23.tv/BV18i4y1G71R)
+ [美音发音矫正](https://www.bilibili.com/video/av19733761)
  
  [资料](http://whycan.ys168.com/)
  
