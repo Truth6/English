@@ -1,16 +1,14 @@
 ### 资料
 
+ #### 发音系统
+ 
  [英音发音矫正](https://www.bilibili.com/video/BV1GJ411X7hu?p=1&share_medium=iphone&share_plat=ios&share_source=COPY&share_tag=s_i&timestamp=1596466547&unique_k=B2JVn2)
  [美音发音矫正](https://www.bilibili.com/video/av19733761)
  [两者发音矫正](https://b23.tv/BV18i4y1G71R)
-
  
+  #### 能力系统
  [能力训练资料](http://whycan.ys168.com/)
  
- [具体训练思路](https://zhuanlan.zhihu.com/p/172458990)
- 
- 
-
 ### 英语学习关键点
 #### 发音：想摆脱口音，第一注重元音的发音。
 
@@ -26,3 +24,4 @@ V-T/V-I If you try to do something, you want to do it, and you take action which
 V-T If you attempt to do something, especially something difficult, you try to do it. 试图 (尤指做困难的事)
 
 记忆：音素放在单词中记忆，单词放在句子中记忆（最好可清晰展示用法的句子），句子放在段落中记忆。（学英语可以认为你就是在学英语句子）
+[具体训练思路](https://zhuanlan.zhihu.com/p/172458990)
