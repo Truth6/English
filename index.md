@@ -5,6 +5,14 @@
  [美音发音矫正](https://www.bilibili.com/video/av49808189)
  
  [具体训练思路](https://zhuanlan.zhihu.com/p/172458990)
+ 
+ [语法规则资料](http://whycan.ys168.com/)
+ 
+ [基本能力资料](http://whycan.ys168.com/)
+ 
+ [能力训练思路](https://zhuanlan.zhihu.com/p/172458990)
+ 
+ 
 
 ### 英语学习关键点
 #### 发音：想摆脱口音，第一注重元音的发音。
