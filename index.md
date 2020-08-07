@@ -2,8 +2,9 @@
 
  [英音发音矫正](https://www.bilibili.com/video/BV1GJ411X7hu?p=1&share_medium=iphone&share_plat=ios&share_source=COPY&share_tag=s_i&timestamp=1596466547&unique_k=B2JVn2)
  
- 
  [美音发音矫正](https://www.bilibili.com/video/av49808189)
+ 
+ [具体训练思路](https://zhuanlan.zhihu.com/p/172458990)
 
 ### 英语学习关键点
 #### 发音：想摆脱口音，第一注重元音的发音。
